@@ -1,3 +1,3 @@
 gitexample.py
 
-This is the initial version
+This is version 2
